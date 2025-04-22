@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.title {
+  padding-left: 10px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
